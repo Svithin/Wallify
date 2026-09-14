@@ -4,7 +4,7 @@ plugins {
 }   
 buildConfigField("String", "UNSPLASH_ACCESS_KEY", "aox0PQ6qhfkjylGZCsM3hM1aGB_Llxwd0_ue718MAEc")
 buildConfigField("String", "PEXELS_API_KEY", "rhukzVL0ARGj1YawJrubhSQROIXEdjerOkmA4s7kid5TuenH40PKuRBN")
-buildConfigField("String", "WALLHAVEN_API_KEY", "\"YOUR_WALLHAVEN_API_KEY\"")
+buildConfigField("String", "WALLHAVEN_API_KEY", "VPMCVZgp7rljz08vWfCEBqKQ2gds85k2")
 buildConfigField("String", "PIXABAY_API_KEY", "57589643-c6ec0dc352b768fb98a9b23b4")
 buildConfigField("String", "NASA_API_KEY", "DEMO_KEY")
 buildConfigField("String", "GIPHY_API_KEY", "qH1x51Vt3ZQKDl1dH6j099vnJ0w6rsyQ")
